@@ -1,6 +1,6 @@
 ---
 updated: 2026-05-24
-count: 82
+count: 87
 range: 2026-03-02 ~ 2026-05-17
 ---
 
@@ -10,10 +10,10 @@ range: 2026-03-02 ~ 2026-05-17
 
 | 类型 | 目录数 | 文件数 |
 |------|--------|--------|
-| 个股 | 18 | 68 |
+| 个股 | 19 | 75 |
 | 行业研究 | 6 | 12 |
 | 策略研究 | 1 | 2 |
-| **合计** | **25** | **82** |
+| **合计** | **26** | **89** |
 
 ## 目录表
 
@@ -21,15 +21,16 @@ range: 2026-03-02 ~ 2026-05-17
 |------|------|------|----------|
 | [腾讯控股](#腾讯控股) | 0700.HK | 16 | 2026-03-13 ~ 2026-05-14 |
 | [泡泡玛特](#泡泡玛特) | 9992.HK | 8 | 2026-03-26 ~ 2026-04-27 |
-| [福耀玻璃](#福耀玻璃) | 600660 | 5 | 2026-03-20 ~ 2026-04-22 |
+| [台积电](#台积电) | 2330.TW | 6 | 2026-04-23 ~ 2026-05-17 |
 | [微软](#微软) | MSFT | 6 | 2026-04-27 ~ 2026-04-30 |
+| [福耀玻璃](#福耀玻璃) | 600660 | 5 | 2026-03-20 ~ 2026-04-22 |
 | [SK海力士](#SK海力士) | 000660.KS | 5 | 2026-04-23 ~ 2026-04-24 |
 | [汇川技术](#汇川技术) | 300124 | 5 | 2026-04-28 ~ 2026-05-03 |
 | [行业研究-互联网](#行业研究-互联网) | — | 4 | 2026-04-20 ~ 2026-04-28 |
 | [拼多多](#拼多多) | PDD | 4 | 2026-03-26 ~ 2026-04-23 |
 | [五粮液](#五粮液) | 000858 | 3 | 2026-03-02 ~ 2026-04-30 |
 | [隆基绿能](#隆基绿能) | 601012 | 3 | 2026-04-30 ~ 2026-04-30 |
-| [台积电](#台积电) | 2330.TW | 2 | 2026-04-23 ~ 2026-04-24 |
+| [日月光投控](#日月光投控) | 5347.TWO | 1 | 2026-05-05 ~ 2026-05-05 |
 | [地平线机器人](#地平线机器人) | 9660.HK | 2 | 2026-04-22 ~ 2026-04-23 |
 | [澜起科技](#澜起科技) | 688008 | 2 | 2026-04-28 ~ 2026-04-28 |
 | [行业研究-半导体](#行业研究-半导体) | — | 2 | 2026-04-07 ~ 2026-05-07 |
@@ -44,7 +45,7 @@ range: 2026-03-02 ~ 2026-05-17
 | [英特尔](#英特尔) | INTC | 1 | 2026-04-25 ~ 2026-04-25 |
 | [谷歌](#谷歌) | GOOG | 1 | 2026-03-18 ~ 2026-03-18 |
 | [行业研究-传媒](#行业研究-传媒) | — | 1 | 2026-04-17 ~ 2026-04-17 |
-| **总计** | | **82** | 2026-03-02 ~ 2026-05-17 |
+| **总计** | | **89** | 2026-03-02 ~ 2026-05-17 |
 
 ## 个股速览
 
@@ -52,6 +53,7 @@ range: 2026-03-02 ~ 2026-05-17
 |------|------|------|------|
 | [腾讯控股](腾讯控股/) | 0700.HK | 16 | 2026-05-14 |
 | [泡泡玛特](泡泡玛特/) | 9992.HK | 8 | 2026-04-27 |
+| [台积电](台积电/) | 2330.TW | 6 | 2026-05-17 |
 | [微软](微软/) | MSFT | 6 | 2026-04-30 |
 | [福耀玻璃](福耀玻璃/) | 600660 | 5 | 2026-04-22 |
 | [SK海力士](SK海力士/) | 000660.KS | 5 | 2026-04-24 |
@@ -59,10 +61,10 @@ range: 2026-03-02 ~ 2026-05-17
 | [拼多多](拼多多/) | PDD | 4 | 2026-04-23 |
 | [五粮液](五粮液/) | 000858 | 3 | 2026-04-30 |
 | [隆基绿能](隆基绿能/) | 601012 | 3 | 2026-04-30 |
-| [台积电](台积电/) | 2330.TW | 2 | 2026-04-24 |
 | [地平线机器人](地平线机器人/) | 9660.HK | 2 | 2026-04-23 |
 | [澜起科技](澜起科技/) | 688008 | 2 | 2026-04-28 |
 | [阿里巴巴](阿里巴巴/) | 9988.HK | 2 | 2026-04-08 |
+| [日月光投控](日月光投控/) | 5347.TWO | 1 | 2026-05-05 |
 | [恒瑞医药](恒瑞医药/) | 600276 | 1 | 2026-05-12 |
 | [三星电子](三星电子/) | 005930.KS | 1 | 2026-04-30 |
 | [海光信息](海光信息/) | 688041 | 1 | 2026-04-20 |
@@ -218,12 +220,24 @@ PDD · 4 份 · 2026-03-26 ~ 2026-04-23
 
 ### 台积电
 
-2330.TW · 2 份 · 2026-04-23 ~ 2026-04-24
+2330.TW · 6 份 · 2026-04-23 ~ 2026-05-17
 
 | 日期 | 研报 |
 |------|------|
-| 2026-04-24 | [2330.TW-BNP Paribas-TSMC  TSMC debuts A13 and updates tech roadmap-12…](台积电/2026-04-24-2330.TW-BNP Paribas-TSMC  TSMC debuts A13 and updates tech roadmap-121610129.pdf) |
-| 2026-04-23 | [2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _US Tech Symp…](台积电/2026-04-23-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _US Tech Symposium Scali...-121597085.pdf) |
+| 2026-05-17 | [2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Strong advanced node…](台积电/2026-05-17-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Strong advanced node...-122084481.undefined.pdf) |
+| 2026-05-15 | [2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _TSMC ann…](台积电/2026-05-15-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _TSMC ann...-122064301.pdf) |
+| 2026-05-15 | [2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Strong capacity and …](台积电/2026-05-15-2330.TW-BofA Global Research-Taiwan Semiconductor Manufacturing Co. Strong capacity and ...-122056887.undefined.pdf) |
+| 2026-05-08 | [2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _Apr sale…](台积电/2026-05-08-2330.TW-UBS Equities-UBS Fast Take Taiwan Semiconductor Manufacturing _Apr sale...-121916347.pdf) |
+| 2026-04-24 | [2330.TW-BNP Paribas-TSMC  TSMC debuts A13 and updates tech roadmap](台积电/2026-04-24-2330.TW-BNP Paribas-TSMC  TSMC debuts A13 and updates tech roadmap-121610129.pdf) |
+| 2026-04-23 | [2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _US Tech Symposium Scali…](台积电/2026-04-23-2330.TW-UBS Equities-Taiwan Semiconductor Manufacturing _US Tech Symposium Scali...-121597085.pdf) |
+
+### 日月光投控
+
+5347.TWO · 1 份 · 2026-05-05 ~ 2026-05-05
+
+| 日期 | 研报 |
+|------|------|
+| 2026-05-05 | [5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Interposer is a better business t…](日月光投控/2026-05-05-5347.TWO-Nomura-Vanguard (5347 TT) (Buy) - Interposer is a better business t...-121841392.pdf) |
 
 ### 地平线机器人
 
