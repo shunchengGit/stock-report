@@ -1,7 +1,7 @@
 ---
-updated: 2026-05-24
-count: 87
-range: 2026-03-02 ~ 2026-05-17
+updated: 2026-05-25
+count: 95
+range: 2026-03-02 ~ 2026-05-20
 ---
 
 # 研报索引
@@ -10,10 +10,10 @@ range: 2026-03-02 ~ 2026-05-17
 
 | 类型 | 目录数 | 文件数 |
 |------|--------|--------|
-| 个股 | 19 | 75 |
+| 个股 | 19 | 81 |
 | 行业研究 | 6 | 12 |
 | 策略研究 | 1 | 2 |
-| **合计** | **26** | **89** |
+| **合计** | **26** | **95** |
 
 ## 目录表
 
@@ -23,7 +23,7 @@ range: 2026-03-02 ~ 2026-05-17
 | [泡泡玛特](#泡泡玛特) | 9992.HK | 8 | 2026-03-26 ~ 2026-04-27 |
 | [台积电](#台积电) | 2330.TW | 6 | 2026-04-23 ~ 2026-05-17 |
 | [微软](#微软) | MSFT | 6 | 2026-04-27 ~ 2026-04-30 |
-| [福耀玻璃](#福耀玻璃) | 600660 | 5 | 2026-03-20 ~ 2026-04-22 |
+| [福耀玻璃](#福耀玻璃) | 600660 | 7 | 2026-03-20 ~ 2026-04-24 |
 | [SK海力士](#SK海力士) | 000660.KS | 5 | 2026-04-23 ~ 2026-04-24 |
 | [汇川技术](#汇川技术) | 300124 | 5 | 2026-04-28 ~ 2026-05-03 |
 | [行业研究-互联网](#行业研究-互联网) | — | 4 | 2026-04-20 ~ 2026-04-28 |
@@ -43,9 +43,9 @@ range: 2026-03-02 ~ 2026-05-17
 | [三星电子](#三星电子) | 005930.KS | 1 | 2026-04-30 ~ 2026-04-30 |
 | [海光信息](#海光信息) | 688041 | 1 | 2026-04-20 ~ 2026-04-20 |
 | [英特尔](#英特尔) | INTC | 1 | 2026-04-25 ~ 2026-04-25 |
-| [谷歌](#谷歌) | GOOG | 1 | 2026-03-18 ~ 2026-03-18 |
+| [谷歌](#谷歌) | GOOG | 7 | 2026-03-18 ~ 2026-05-20 |
 | [行业研究-传媒](#行业研究-传媒) | — | 1 | 2026-04-17 ~ 2026-04-17 |
-| **总计** | | **89** | 2026-03-02 ~ 2026-05-17 |
+| **总计** | | **95** | 2026-03-02 ~ 2026-05-20 |
 
 ## 个股速览
 
@@ -55,7 +55,7 @@ range: 2026-03-02 ~ 2026-05-17
 | [泡泡玛特](泡泡玛特/) | 9992.HK | 8 | 2026-04-27 |
 | [台积电](台积电/) | 2330.TW | 6 | 2026-05-17 |
 | [微软](微软/) | MSFT | 6 | 2026-04-30 |
-| [福耀玻璃](福耀玻璃/) | 600660 | 5 | 2026-04-22 |
+| [福耀玻璃](福耀玻璃/) | 600660 | 7 | 2026-04-24 |
 | [SK海力士](SK海力士/) | 000660.KS | 5 | 2026-04-24 |
 | [汇川技术](汇川技术/) | 300124 | 5 | 2026-05-03 |
 | [拼多多](拼多多/) | PDD | 4 | 2026-04-23 |
@@ -69,7 +69,7 @@ range: 2026-03-02 ~ 2026-05-17
 | [三星电子](三星电子/) | 005930.KS | 1 | 2026-04-30 |
 | [海光信息](海光信息/) | 688041 | 1 | 2026-04-20 |
 | [英特尔](英特尔/) | INTC | 1 | 2026-04-25 |
-| [谷歌](谷歌/) | GOOG | 1 | 2026-03-18 |
+| [谷歌](谷歌/) | GOOG | 7 | 2026-05-20 |
 
 ## 行业速览
 
@@ -142,10 +142,12 @@ MSFT · 6 份 · 2026-04-27 ~ 2026-04-30
 
 ### 福耀玻璃
 
-600660 · 5 份 · 2026-03-20 ~ 2026-04-22
+600660 · 7 份 · 2026-03-20 ~ 2026-04-24
 
 | 日期 | 研报 |
 |------|------|
+| 2026-04-24 | [招商证券_福耀玻璃（600660）：2026Q1业绩强劲，跑赢行业](福耀玻璃/20260424-招商证券-福耀玻璃-600660-2026Q1业绩强劲，跑赢行业.pdf) |
+| 2026-04-22 | [华泰证券-福耀玻璃-600660-汇兑短期影响盈利但不改长期成长](福耀玻璃/20260422-华泰证券-福耀玻璃-600660-汇兑短期影响盈利但不改长期成长.pdf) |
 | 2026-04-22 | [600660.SS-BNP Paribas-FUYAO GLASS - H  Operation and margin remain ro…](福耀玻璃/2026-04-22-600660.SS-BNP Paribas-FUYAO GLASS - H  Operation and margin remain robust; reiter...-121560357.pdf) |
 | 2026-04-22 | [600660.SS-JPMorgan-Fuyao Glass Management sees positive order momentu…](福耀玻璃/2026-04-22-600660.SS-JPMorgan-Fuyao Glass Management sees positive order momentum in 2Q26;...-121576213.pdf) |
 | 2026-04-21 | [600660.SS-UBS Equities-First Read Fuyao Glass _Positive Q126 earnings…](福耀玻璃/2026-04-21-600660.SS-UBS Equities-First Read Fuyao Glass _Positive Q126 earnings growth again...-121530995.pdf) |
@@ -326,10 +328,16 @@ INTC · 1 份 · 2026-04-25 ~ 2026-04-25
 
 ### 谷歌
 
-GOOG · 1 份 · 2026-03-18 ~ 2026-03-18
+GOOG · 7 份 · 2026-03-18 ~ 2026-05-20
 
 | 日期 | 研报 |
 |------|------|
+| 2026-05-20 | [GOOGL.OQ-Morgan Stanley-Alphabet Inc. Sparking the Agentic Torch](谷歌/2026-05-20-GOOGL.OQ-Morgan Stanley-Alphabet Inc. Sparking the Agentic Torch-122129431.undefined.pdf) |
+| 2026-05-15 | [GOOGL.OQ-BofA Global Research-Alphabet Expect AI innovation and integration at IO](谷歌/2026-05-15-GOOGL.OQ-BofA Global Research-Alphabet Expect AI innovation and integration at IO-122068546.undefined.pdf) |
+| 2026-05-05 | [GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude  Gemini momentum continues…](谷歌/2026-05-05-GOOGL.OQ-BofA Global Research-Alphabet AI Wars Claude  Gemini momentum continues, with ...-121834011.undefined.pdf) |
+| 2026-04-30 | [GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Cloud beats expectations…](谷歌/2026-04-30-GOOGL.OQ-HSBC Global Investme-Alphabet (GOOGL US) Buy Cloud beats expectations, as does F...-121713593.pdf) |
+| 2026-04-30 | [GOOGL.OQ-Deutsche Bank-Alphabet TPUs Driving Cloud Growth](谷歌/2026-04-30-GOOGL.OQ-Deutsche Bank-Alphabet TPUs Driving Cloud Growth-121728039.pdf) |
+| 2026-04-30 | [GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins…](谷歌/2026-04-30-GOOGL.OQ-BofA Global Research-Alphabet AI driving strong growth and margins, and big back...-121718678.undefined.pdf) |
 | 2026-03-18 | [国泰海通证券_谷歌C（GOOG）：深度报告：超大规模智能交付系统，进入价值跃迁时刻](谷歌/2026-03-18国泰海通证券_谷歌C（GOOG）：深度报告：超大规模智能交付系统，进入价值跃迁时刻.pdf) |
 
 ### 行业研究-传媒
