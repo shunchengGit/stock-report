@@ -1,6 +1,6 @@
 ---
 updated: 2026-05-25
-count: 95
+count: 97
 range: 2026-03-02 ~ 2026-05-20
 ---
 
@@ -10,20 +10,20 @@ range: 2026-03-02 ~ 2026-05-20
 
 | 类型 | 目录数 | 文件数 |
 |------|--------|--------|
-| 个股 | 19 | 81 |
+| 个股 | 19 | 83 |
 | 行业研究 | 6 | 12 |
 | 策略研究 | 1 | 2 |
-| **合计** | **26** | **95** |
+| **合计** | **26** | **97** |
 
 ## 目录表
 
 | 目录 | 代码 | 份数 | 时间范围 |
 |------|------|------|----------|
-| [腾讯控股](#腾讯控股) | 0700.HK | 16 | 2026-03-13 ~ 2026-05-14 |
+| [腾讯控股](#腾讯控股) | 0700.HK | 17 | 2026-03-13 ~ 2026-05-14 |
 | [泡泡玛特](#泡泡玛特) | 9992.HK | 8 | 2026-03-26 ~ 2026-04-27 |
 | [台积电](#台积电) | 2330.TW | 6 | 2026-04-23 ~ 2026-05-17 |
 | [微软](#微软) | MSFT | 6 | 2026-04-27 ~ 2026-04-30 |
-| [福耀玻璃](#福耀玻璃) | 600660 | 7 | 2026-03-20 ~ 2026-04-24 |
+| [福耀玻璃](#福耀玻璃) | 600660 | 9 | 2026-03-20 ~ 2026-04-24 |
 | [SK海力士](#SK海力士) | 000660.KS | 5 | 2026-04-23 ~ 2026-04-24 |
 | [汇川技术](#汇川技术) | 300124 | 5 | 2026-04-28 ~ 2026-05-03 |
 | [行业研究-互联网](#行业研究-互联网) | — | 4 | 2026-04-20 ~ 2026-04-28 |
@@ -45,17 +45,17 @@ range: 2026-03-02 ~ 2026-05-20
 | [英特尔](#英特尔) | INTC | 1 | 2026-04-25 ~ 2026-04-25 |
 | [谷歌](#谷歌) | GOOG | 7 | 2026-03-18 ~ 2026-05-20 |
 | [行业研究-传媒](#行业研究-传媒) | — | 1 | 2026-04-17 ~ 2026-04-17 |
-| **总计** | | **95** | 2026-03-02 ~ 2026-05-20 |
+| **总计** | | **97** | 2026-03-02 ~ 2026-05-20 |
 
 ## 个股速览
 
 | 目录 | 代码 | 份数 | 最新 |
 |------|------|------|------|
-| [腾讯控股](腾讯控股/) | 0700.HK | 16 | 2026-05-14 |
+| [腾讯控股](腾讯控股/) | 0700.HK | 17 | 2026-05-14 |
 | [泡泡玛特](泡泡玛特/) | 9992.HK | 8 | 2026-04-27 |
 | [台积电](台积电/) | 2330.TW | 6 | 2026-05-17 |
 | [微软](微软/) | MSFT | 6 | 2026-04-30 |
-| [福耀玻璃](福耀玻璃/) | 600660 | 7 | 2026-04-24 |
+| [福耀玻璃](福耀玻璃/) | 600660 | 9 | 2026-04-24 |
 | [SK海力士](SK海力士/) | 000660.KS | 5 | 2026-04-24 |
 | [汇川技术](汇川技术/) | 300124 | 5 | 2026-05-03 |
 | [拼多多](拼多多/) | PDD | 4 | 2026-04-23 |
@@ -92,13 +92,14 @@ range: 2026-03-02 ~ 2026-05-20
 
 ### 腾讯控股
 
-0700.HK · 16 份 · 2026-03-13 ~ 2026-05-14
+0700.HK · 17 份 · 2026-03-13 ~ 2026-05-14
 
 | 日期 | 研报 |
 |------|------|
 | 2026-05-14 | [0700.HK-Deutsche Bank-Tencent Steady progress in AI development powers future gro…](腾讯控股/2026-05-14-0700.HK-Deutsche Bank-Tencent Steady progress in AI development powers future gro...-122039331.pdf) |
 | 2026-05-14 | [0700.HK-UBS Equities-First Read Tencent Holdings _1Q26 inline; undervalue option…](腾讯控股/2026-05-14-0700.HK-UBS Equities-First Read Tencent Holdings _1Q26 inline; undervalue option...-122029104.pdf) |
 | 2026-05-13 | [腾讯控股-0700.HK-截至2026年3月31日止三个月业绩公布](腾讯控股/2026-05-13-腾讯控股-0700.HK-截至2026年3月31日止三个月业绩公布.pdf) |
+| 2026-05-13 | [0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy Core business margin continue…](腾讯控股/2026-05-13-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy Core business margin continue...-122030969.pdf) |
 | 2026-05-13 | [0700.HK-JPMorgan-Tencent (0700) First Take 1Q26 - two PLs under one t…](腾讯控股/2026-05-13-0700.HK-JPMorgan-Tencent (0700) First Take 1Q26 - two PLs under one ticker-122024510.pdf) |
 | 2026-05-13 | [0700.HK-JPMorgan-Tencent (0700) Compounding core, bounded AI, trough …](腾讯控股/2026-05-13-0700.HK-JPMorgan-Tencent (0700) Compounding core, bounded AI, trough multiple-122031596.pdf) |
 | 2026-04-27 | [0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy An initial…](腾讯控股/2026-04-27-0700.HK-HSBC Global Investme-Tencent Holdings (700 HK) Buy An initial review of HY3 prev...-121642533.pdf) |
@@ -142,11 +143,13 @@ MSFT · 6 份 · 2026-04-27 ~ 2026-04-30
 
 ### 福耀玻璃
 
-600660 · 7 份 · 2026-03-20 ~ 2026-04-24
+600660 · 9 份 · 2026-03-20 ~ 2026-04-24
 
 | 日期 | 研报 |
 |------|------|
 | 2026-04-24 | [招商证券_福耀玻璃（600660）：2026Q1业绩强劲，跑赢行业](福耀玻璃/20260424-招商证券-福耀玻璃-600660-2026Q1业绩强劲，跑赢行业.pdf) |
+| 2026-04-22 | [600660.SS-BofA Global Research-Fuyao Glass (HA) 1Q26 EBIT beat on ASP growth  resilient …](福耀玻璃/2026-04-22-600660.SS-BofA Global Research-Fuyao Glass (HA) 1Q26 EBIT beat on ASP growth  resilient ...-121574015.undefined.pdf) |
+| 2026-04-22 | [600660.SS-Morgan Stanley-Fuyao Glass Industry Group 1Q26 Earnings Call Takeaways – S…](福耀玻璃/2026-04-22-600660.SS-Morgan Stanley-Fuyao Glass Industry Group 1Q26 Earnings Call Takeaways – S...-121554520.undefined.pdf) |
 | 2026-04-22 | [华泰证券-福耀玻璃-600660-汇兑短期影响盈利但不改长期成长](福耀玻璃/20260422-华泰证券-福耀玻璃-600660-汇兑短期影响盈利但不改长期成长.pdf) |
 | 2026-04-22 | [600660.SS-BNP Paribas-FUYAO GLASS - H  Operation and margin remain ro…](福耀玻璃/2026-04-22-600660.SS-BNP Paribas-FUYAO GLASS - H  Operation and margin remain robust; reiter...-121560357.pdf) |
 | 2026-04-22 | [600660.SS-JPMorgan-Fuyao Glass Management sees positive order momentu…](福耀玻璃/2026-04-22-600660.SS-JPMorgan-Fuyao Glass Management sees positive order momentum in 2Q26;...-121576213.pdf) |
