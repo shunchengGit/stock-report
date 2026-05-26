@@ -1,7 +1,7 @@
 ---
-updated: 2026-05-25
-count: 96
-range: 2026-03-02 ~ 2026-05-20
+updated: 2026-05-26
+count: 104
+range: 2026-03-02 ~ 2026-05-21
 ---
 
 # 研报索引
@@ -10,10 +10,10 @@ range: 2026-03-02 ~ 2026-05-20
 
 | 类型 | 目录数 | 文件数 |
 |------|--------|--------|
-| 个股 | 19 | 82 |
+| 个股 | 21 | 90 |
 | 行业研究 | 6 | 12 |
 | 策略研究 | 1 | 2 |
-| **合计** | **26** | **96** |
+| **合计** | **28** | **104** |
 
 ## 目录表
 
@@ -44,6 +44,8 @@ range: 2026-03-02 ~ 2026-05-20
 | [海光信息](#海光信息) | 688041 | 1 | 2026-04-20 ~ 2026-04-20 |
 | [英特尔](#英特尔) | INTC | 1 | 2026-04-25 ~ 2026-04-25 |
 | [谷歌](#谷歌) | GOOG | 6 | 2026-04-30 ~ 2026-05-20 |
+| [中通快递](#中通快递) | 2057.HK | 5 | 2026-05-20 ~ 2026-05-20 |
+| [万国数据](#万国数据) | 9698.HK | 3 | 2026-05-21 ~ 2026-05-21 |
 | [行业研究-传媒](#行业研究-传媒) | — | 1 | 2026-04-17 ~ 2026-04-17 |
 | **总计** | | **96** | 2026-03-02 ~ 2026-05-20 |
 
@@ -70,6 +72,8 @@ range: 2026-03-02 ~ 2026-05-20
 | [海光信息](海光信息/) | 688041 | 1 | 2026-04-20 |
 | [英特尔](英特尔/) | INTC | 1 | 2026-04-25 |
 | [谷歌](谷歌/) | GOOG | 6 | 2026-05-20 |
+| [中通快递](中通快递/) | 2057.HK | 5 | 2026-05-20 |
+| [万国数据](万国数据/) | 9698.HK | 3 | 2026-05-21 |
 
 ## 行业速览
 
@@ -367,3 +371,25 @@ GOOG · 6 份 · 2026-04-30 ~ 2026-05-20
 |------|------|
 | 2026-05-11 | [HSBC Global Investme-China AI LLM through the lens of a DeepSeek expert](行业研究-AI/2026-05-11-HSBC Global Investme-China AI LLM through the lens of a DeepSeek expert-121952617.pdf) |
 | 2026-05-10 | [Jefferies-AI Series #41 New Developments of DeepSeek Post V4](行业研究-AI/2026-05-10-Jefferies-AI Series #41 New Developments of DeepSeek Post V4-121942676.pdf) |
+
+### 中通快递
+
+2057.HK · 5 份 · 2026-05-20 ~ 2026-05-20
+
+| 日期 | 研报 |
+|------|------|
+| 2026-05-20 | [2057.HK-JPMorgan-ZTO Express (ZTO US2057 HK) 1Q26 beat, briefing points to s...](中通快递/2026-05-20-2057.HK-JPMorgan-ZTO%20Express%20(ZTO%20US2057%20HK)%201Q26%20beat%2C%20briefing%20points%20to%20s...-122143853.pdf) |
+| 2026-05-20 | [2057.HK-Morgan Stanley-ZTO Express 1Q26 Results Call Sustained Positive Managemen...](中通快递/2026-05-20-2057.HK-Morgan%20Stanley-ZTO%20Express%201Q26%20Results%20Call%20Sustained%20Positive%20Managemen...-122130478.undefined.pdf) |
+| 2026-05-20 | [2057.HK-Morgan Stanley-ZTO Express Earnings Upgrade Continues Despite Macro Challe...](中通快递/2026-05-20-2057.HK-Morgan%20Stanley-ZTO%20Express%20Earnings%20Upgrade%20Continues%20Despite%20Macro%20Challe...-122139495.undefined.pdf) |
+| 2026-05-20 | [2057.HK-Morgan Stanley-ZTO Express Research Tactical Idea](中通快递/2026-05-20-2057.HK-Morgan%20Stanley-ZTO%20Express%20Research%20Tactical%20Idea-122143273.undefined.pdf) |
+| 2026-05-20 | [2057.HK-UBS Equities-First Read ZTO Express Winning on quality over quantity](中通快递/2026-05-20-2057.HK-UBS%20Equities-First%20Read%20ZTO%20Express%20_Winning%20on%20quality%20over%20quantity_%20(...-122142837.pdf) |
+
+### 万国数据
+
+9698.HK · 3 份 · 2026-05-21 ~ 2026-05-21
+
+| 日期 | 研报 |
+|------|------|
+| 2026-05-21 | [9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls](万国数据/2026-05-21-9698.HK-Deutsche%20Bank-GDS%20Holdings%20Ltd%20Running%20with%20the%20bulls-122151620.pdf) |
+| 2026-05-21 | [9698.HK-JPMorgan-GDS Holdings Strong 3-year bookings target; revenue expected...](万国数据/2026-05-21-9698.HK-JPMorgan-GDS%20Holdings%20Strong%203-year%20bookings%20target%3B%20revenue%20expected...-122152324.pdf) |
+| 2026-05-21 | [9698.HK-Macquarie Research-AI demand ignites solid beat](万国数据/2026-05-21-9698.HK-Macquarie%20Research-AI%20demand%20ignites%20solid%20beat-122144909.pdf) |
