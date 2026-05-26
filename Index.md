@@ -1,6 +1,6 @@
 ---
-updated: 2026-05-26
-count: 104
+updated: 2026-05-27
+count: 108
 range: 2026-03-02 ~ 2026-05-21
 ---
 
@@ -10,10 +10,10 @@ range: 2026-03-02 ~ 2026-05-21
 
 | 类型 | 目录数 | 文件数 |
 |------|--------|--------|
-| 个股 | 21 | 90 |
+| 个股 | 22 | 94 |
 | 行业研究 | 6 | 12 |
 | 策略研究 | 1 | 2 |
-| **合计** | **28** | **104** |
+| **合计** | **29** | **108** |
 
 ## 目录表
 
@@ -46,8 +46,9 @@ range: 2026-03-02 ~ 2026-05-21
 | [谷歌](#谷歌) | GOOG | 6 | 2026-04-30 ~ 2026-05-20 |
 | [中通快递](#中通快递) | 2057.HK | 5 | 2026-05-20 ~ 2026-05-20 |
 | [万国数据](#万国数据) | 9698.HK | 3 | 2026-05-21 ~ 2026-05-21 |
+| [贵州茅台](#贵州茅台) | 600519 | 4 | 2026-03-30 ~ 2026-04-27 |
 | [行业研究-传媒](#行业研究-传媒) | — | 1 | 2026-04-17 ~ 2026-04-17 |
-| **总计** | | **96** | 2026-03-02 ~ 2026-05-20 |
+| **总计** | | **108** | 2026-03-02 ~ 2026-05-20 |
 
 ## 个股速览
 
@@ -74,6 +75,7 @@ range: 2026-03-02 ~ 2026-05-21
 | [谷歌](谷歌/) | GOOG | 6 | 2026-05-20 |
 | [中通快递](中通快递/) | 2057.HK | 5 | 2026-05-20 |
 | [万国数据](万国数据/) | 9698.HK | 3 | 2026-05-21 |
+| [贵州茅台](贵州茅台/) | 600519 | 4 | 2026-04-27 |
 
 ## 行业速览
 
@@ -392,4 +394,15 @@ GOOG · 6 份 · 2026-04-30 ~ 2026-05-20
 |------|------|
 | 2026-05-21 | [9698.HK-Deutsche Bank-GDS Holdings Ltd Running with the bulls](万国数据/2026-05-21-9698.HK-Deutsche%20Bank-GDS%20Holdings%20Ltd%20Running%20with%20the%20bulls-122151620.pdf) |
 | 2026-05-21 | [9698.HK-JPMorgan-GDS Holdings Strong 3-year bookings target; revenue expected...](万国数据/2026-05-21-9698.HK-JPMorgan-GDS%20Holdings%20Strong%203-year%20bookings%20target%3B%20revenue%20expected...-122152324.pdf) |
-| 2026-05-21 | [9698.HK-Macquarie Research-AI demand ignites solid beat](万国数据/2026-05-21-9698.HK-Macquarie%20Research-AI%20demand%20ignites%20solid%20beat-122144909.pdf) |
+|| 2026-05-21 | [9698.HK-Macquarie Research-AI demand ignites solid beat](万国数据/2026-05-21-9698.HK-Macquarie%20Research-AI%20demand%20ignites%20solid%20beat-122144909.pdf) |
+
+### 贵州茅台
+
+600519 · 4 份 · 2026-03-30 ~ 2026-04-27
+
+| 日期 | 研报 |
+|------|------|
+| 2026-04-27 | [600519.SS-Jefferies-Positioned for Structural Growth from 2H26](贵州茅台/2026-04-27-600519.SS-Jefferies-Positioned%20for%20Structural%20Growth%20from%202H26-121642799.pdf) |
+| 2026-04-26 | [600519.SS-BofA Global Research-Kweichow Moutai Co. Ltd. (A) 1Q a mixed bag; strong i-Moutai](贵州茅台/2026-04-26-600519.SS-BofA%20Global%20Research-Kweichow%20Moutai%20Co.%20Ltd.%20(A)%201Q%20a%20mixed%20bag%3B%20strong%20i-Mouta...-121639520.undefined.pdf) |
+| 2026-04-16 | [600519.SS-BofA Global Research-Kweichow Moutai Co. Ltd. (A) 4Q25 miss as a clearing event](贵州茅台/2026-04-16-600519.SS-BofA%20Global%20Research-Kweichow%20Moutai%20Co.%20Ltd.%20(A)%204Q25%20miss%20as%20a%20clearing%20event%3B...-121443898.undefined.pdf) |
+| 2026-03-30 | [600519.SS-Morgan Stanley-Kweichow Moutai Company Ltd. Price Hikes for Feitian Moutai](贵州茅台/2026-03-30-600519.SS-Morgan%20Stanley-Kweichow%20Moutai%20Company%20Ltd.%20Price%20Hikes%20for%20Feitian%20Moutai-121021293.undefined.pdf) |
